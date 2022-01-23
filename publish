@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-cd /Users/Judy/Blog && git add . && git commit -m 'feat(post):new post added' && git push origin main:main --force
+cd /Users/Judy/Blog && git add . && git commit -m 'feat(post):new post added' && git push origin main:main --force && exit 0
